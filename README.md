@@ -1,2 +1,2 @@
-# C-Programming_Fundamentas
-C++ Syntax Notes and practice codes
+# C++ Programming Fundamentas
+C++ syntax Notes and practice Codes
